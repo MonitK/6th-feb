@@ -1,0 +1,6 @@
+# exclude pdf files #
+*.pdf
+#ignore the output folder#
+.output
+#track the mk.txt#
+!/output/mk.txt#
